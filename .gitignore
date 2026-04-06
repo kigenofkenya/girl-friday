@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Audio temp files
+*.wav
+*.mp3
+*.flac
+
+# Model caches (downloaded at runtime)
+.cache/
+
+# Environment files with secrets
+.env.local
+.env.*.local
