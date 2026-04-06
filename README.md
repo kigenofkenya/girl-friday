@@ -1,5 +1,7 @@
 # Girl Friday
 
+![Girl Friday in action](./Screenshot%202026-04-06%20at%2009.56.07.png)
+
 A voice-powered AI assistant using Whisper for speech recognition and Ollama for chat, with pyttsx3 for spoken responses. All processing happens locally — no cloud dependencies.
 
 > **What's in a name?** "Girl Friday" is a nod to the classic "girl Friday" — a trusted personal assistant. This is your AI assistant that listens, thinks, and talks back.
